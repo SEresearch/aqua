@@ -6,6 +6,7 @@ public class PackageError {
 
 		int i,n;
 		package semicolonExpected
+		
 
 	}
 
